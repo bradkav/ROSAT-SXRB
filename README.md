@@ -7,4 +7,4 @@ Processed, machine-readable, all-sky maps are in the `maps` folder. Correspondin
 
 Details of the processing and scripts for reading and using the maps to follow.
 
-![ROSAT Sky Map](https://github.com/bradkav/ROSAT-SXRB/blob/master/plots/ROSAT_R5_fullsky.pdf)
+![ROSAT Sky Map](https://github.com/bradkav/ROSAT-SXRB/blob/master/plots/ROSAT_R1_fullsky.png)
